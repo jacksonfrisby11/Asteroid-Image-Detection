@@ -1,3 +1,5 @@
+# Asteroid Machine Learning Project
+
 This repository contains the full code, dataset resources, and outputs for a project exploring asteroid classification using two machine-learning approaches:
 
 A Convolutional Neural Network (CNN) trained on asteroid images
